@@ -1,8 +1,8 @@
 'use strict'
 
 let P1, P2, C
-let L1, L2
-let G1, G2
+let L1, L2, L3, L3A
+let G1, G2, G3
 let Bezier
 
 function initSVG(e) {
